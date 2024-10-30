@@ -1,0 +1,5 @@
+pyTelegramBotAPI==4.23.0
+openai==1.52.0
+loguru==0.7.2
+emoji==2.14.0
+python-dotenv==1.0.1
