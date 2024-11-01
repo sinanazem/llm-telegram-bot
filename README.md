@@ -1,1 +1,1 @@
-# llm-chatbot-telegram
+# llm-telegram-bot
