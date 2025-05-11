@@ -1,4 +1,4 @@
-# **AutoDeploy LLM Telegram Bot**
+# **LLM Telegram Bot**
 
 **Automatically Create and Deploy Large Language Model (LLM) Telegram Bots with RAG Architecture**
 
