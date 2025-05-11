@@ -3,7 +3,6 @@
 **Automatically Create and Deploy Large Language Model (LLM) Telegram Bots with RAG Architecture**
 
 ## **Table of Contents**
------------------
 
 1. [**Overview**](#overview)
 2. [**Key Features**](#key-features)
@@ -72,7 +71,5 @@
 - The system will automatically create and configure your RAG LLM bot
 
 ## **Adding Bot to Telegram**
------------------------------
-
 1. Open Telegram and search for `@BotFather`.
 2. Follow the in-app instructions to add your newly deployed bot.
